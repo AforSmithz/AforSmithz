@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !
 
 - 🌱 I’m currently learning Fullstack Javascript Web Development and Data Science
 - 📫 How to reach me:   https://www.instagram.com/dat_abisenoarya/ 
