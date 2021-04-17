@@ -5,5 +5,5 @@
 - 📧 e-mail         :   abiseno.arya@gmail.com
                         
                         
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AforSmithz&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AforSmithz&show_icons=true&theme=tokyonight) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AforSmithz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
